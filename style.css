@@ -1,5 +1,14 @@
 body{
-    background-color:background-color: #FFE53B;
+    background-color: #FFE53B;
     background-image: linear-gradient(90deg, #FFE53B 0%, #FF2525 74%);
-    imagehttps://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpuuOMsmfz8fJeWzibSUzzkw3351Lv2ko443x7YAaSbifTtJih
+     
+}
+header{
+    display: flex;
+    justify-content: center;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
 }
