@@ -1,17 +1,25 @@
-body{
+body {
     background-color: #FFE53B;
     background-image: linear-gradient(90deg, #FFE53B 0%, #FF2525 74%);
-     
+
 }
-header{
+
+header {
     display: flex;
     justify-content: center;
-    
+
 }
-ul{
+
+ul {
     display: flex;
     list-style: none;
     font-size: 40px;
     gap: 28px;
     text-transform: uppercase;
+}
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: azure;
+
 }
