@@ -10,7 +10,7 @@ header {
 
 }
 
-ul {
+.navLista {
     display: flex;
     list-style: none;
     font-size: 40px;
