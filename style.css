@@ -32,3 +32,8 @@ header {
     display: flex;
     gap: 3vw;
 }
+
+.moldura_videos{
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
