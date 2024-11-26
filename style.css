@@ -30,4 +30,5 @@ header {
 
 .secao ul{
     display: flex;
+    gap: 5vw;
 }
